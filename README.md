@@ -1,6 +1,5 @@
  📖 Story Idea Generator
-
-     🔹 Overview
+ 
 The Story Idea Generator helps you create **AI-ready prompts** for generating story ideas.  
 It has two versions:
 - 🐍 Python CLI program
